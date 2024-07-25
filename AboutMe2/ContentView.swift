@@ -50,7 +50,9 @@ struct ContentView: View {
                         Text("I collect a lot of things especially these green little figures called smiskis. They sit on a shelf in my room, glowing.")
                             .foregroundColor(Color.white)
                     }
-                    
+                    HStack{
+                        
+                    }
                 }
             
             }
